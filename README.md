@@ -5,7 +5,12 @@
 
 Cafeteria Selenium é um site responsivo e moderno desenvolvido com Bootstrap 5, destinado a simular a interface de uma cafeteria, com menus de produtos, detalhes sobre o estabelecimento, e funcionalidades de navegação simplificadas. O projeto visa proporcionar uma experiência visual agradável, utilizando os recursos do Bootstrap para garantir um design amigável e adaptável a diversos dispositivos.
 
-🛠 Tecnologias Utilizadas
+
+
+🛠 **Tecnologias Utilizadas**
+
+
+
 HTML5 - Estrutura semântica da página
 
 CSS3 - Estilização personalizada
@@ -16,7 +21,10 @@ JavaScript - Interatividade na página
 
 Font Awesome - Ícones para enriquecer a interface
 
-🚀 Como Rodar o Projeto
+🚀 **Como Rodar o Projeto**
+
+
+
 Clone este repositório:
 
 bash
@@ -29,9 +37,12 @@ Copiar
 cd cafeteria-selenium
 Abra o arquivo index.html no seu navegador preferido para visualizar o projeto.
 
-📸 Tela Inicial
+📸 **Tela Inicial**
 
-📑 Funcionalidades
+
+
+📑 **Funcionalidades**
+
 Menu de Produtos: Visualize os itens disponíveis no cardápio da cafeteria.
 
 Responsividade: O site se adapta automaticamente a diferentes tamanhos de tela, proporcionando uma boa experiência tanto em dispositivos móveis quanto desktop.
@@ -40,7 +51,8 @@ Navbar de Navegação: A navegação facilita o acesso às diferentes seções d
 
 Modal de Detalhes do Produto: Ao clicar em um produto, um modal exibe mais informações.
 
-🔧 Personalização
+🔧 **Personalização**
+
 Você pode personalizar o projeto modificando os seguintes arquivos:
 
 index.html - Página principal.
@@ -74,7 +86,10 @@ body {
 }
 
 
-🧑‍🤝‍🧑 Contribuindo
+🧑‍🤝‍🧑 **Contribuindo**
+
+
+
 Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Como contribuir:
