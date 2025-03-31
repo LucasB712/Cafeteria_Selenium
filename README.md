@@ -1,9 +1,9 @@
-# Cafeteria_Selenium
+# Cafeteria_Serenatto
 
 <img width="1264" alt="image" src="https://github.com/user-attachments/assets/2252a560-3236-488e-9efe-ea79c82ba647" />
 
 
-Cafeteria Selenium é um site responsivo e moderno desenvolvido com Bootstrap 5, destinado a simular a interface de uma cafeteria, com menus de produtos, detalhes sobre o estabelecimento, e funcionalidades de navegação simplificadas. O projeto visa proporcionar uma experiência visual agradável, utilizando os recursos do Bootstrap para garantir um design amigável e adaptável a diversos dispositivos.
+Cafeteria Serenatto é um site responsivo e moderno desenvolvido com Bootstrap 5, destinado a simular a interface de uma cafeteria, com menus de produtos, detalhes sobre o estabelecimento, e funcionalidades de navegação simplificadas. O projeto visa proporcionar uma experiência visual agradável, utilizando os recursos do Bootstrap para garantir um design amigável e adaptável a diversos dispositivos.
 
 
 
