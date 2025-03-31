@@ -1,0 +1,7 @@
+#escolher versão node
+FROM node:14
+WORKDIR /app-node
+#Do nosso diretório atual para o /app-node do container
+COPY . .
+RUN npm install
+ENTRYPOINT npm start
